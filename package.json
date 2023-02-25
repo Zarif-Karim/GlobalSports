@@ -1,0 +1,20 @@
+{
+  "name": "globalsports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zarif-Karim/GlobalSports.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zarif-Karim/GlobalSports/issues"
+  },
+  "homepage": "https://github.com/Zarif-Karim/GlobalSports#readme"
+}
