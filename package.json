@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Zarif-Karim/GlobalSports/issues"
   },
-  "homepage": "https://github.com/Zarif-Karim/GlobalSports#readme"
+  "homepage": "https://github.com/Zarif-Karim/GlobalSports#readme",
+  "dependencies": {
+    "typescript": "^4.9.5"
+  }
 }
