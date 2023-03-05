@@ -1,5 +1,8 @@
 #Taken from: https://github.com/github/gitignore/blob/main/Node.gitignore
 
+# JS build files from running 'npm run build'
+build/
+
 # Logs
 logs
 *.log
